@@ -1,15 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20Codebase&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer&descAlignY=51&descAlign=62" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2847F0&center=true&vCenter=true&width=500&lines=Hi,+I'm+Argandhi23!;Mobile+%26+Web+Developer;Flutter+Enthusiast;Welcome+to+my+Profile!👋" alt="Typing SVG" />
+  </a>
 </div>
 
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2847F0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Argandhi23!;Building+Apps+with+Flutter;Crafting+Webs+with+Tailwind;Backend+with+Java+%26+PHP;Database+Architect" alt="Typing SVG" />
-  </a>
-</h2>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <br/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
 </div>
 
 <hr/>
@@ -42,7 +39,7 @@
 
 <h3 align="center">🐍 My Contribution Snake</h3>
 <div align="center">
-  <img src="https://github.com/Argandhi23/Argandhi23/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Argandhi23/Argandhi23/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
 <div align="center">
