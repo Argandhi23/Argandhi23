@@ -28,8 +28,8 @@
 
 <h3 align="left">📈 My GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical&hide_border=true" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Argandhi23&show_icons=true&theme=radical&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argandhi23&layout=compact&theme=radical&hide_border=true" alt="top languages" />
 </p>
 
 <br>
