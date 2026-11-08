@@ -1,52 +1,35 @@
 <p align="center">
-  <img src="./assets/madiun-room.svg" width="100%" alt="Argandhi — Madiun. Meja kerja pixel-art, hujan, kereta lewat, dan kucing." />
+  <img src="./assets/madiun-room.svg" width="100%" alt="Argandhi, Madiun. Meja kerja pixel-art dengan hujan, kereta lewat, dan kucing." />
 </p>
 
-### Halo, aku Argandhi.
+<img src="./assets/about-argandhi.svg" width="100%" alt="Halo, aku Argandhi. Faqih Rafasha Argandhi, mahasiswa Informatika UNESA asal Madiun, Jawa Timur." />
 
-Mahasiswa Informatika UNESA, asal **Madiun, Jawa Timur**.
+<br/>
 
-Biasanya bikin web pakai **Next.js dan TypeScript**. Ada juga project **Flutter**, sama beberapa eksperimen **Python** buat kuliah. Di sini aku simpan project pribadi, tugas, dan hasil kerja bareng teman.
+Aku **Argandhi**, dari **Madiun**. Sekarang kuliah Informatika di **Universitas Negeri Surabaya**.
 
-### Project
+Aku suka ngulik web, aplikasi mobile, dan tampilan antarmuka. Paling sering ketemu **Next.js sama TypeScript**, tapi juga main **Flutter** dan belajar **Python & AI**.
 
-Klik kartunya buat buka repo.
+### Yang suka aku ulik
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/Argandhi23/sistem-paket-warga"><img src="./assets/project-paket.svg" width="100%" alt="Sistem Paket Warga — manajemen paket perumahan. Next.js, Prisma, Supabase." /></a></td>
-<td width="50%"><a href="https://github.com/Argandhi23/griyanesa"><img src="./assets/project-griyanesa.svg" width="100%" alt="Griyanesa — pencarian kost sekitar UNESA Kampus 5. Next.js, Supabase, Leaflet." /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Argandhi23/sistemkeuanganbogem"><img src="./assets/project-bogem.svg" width="100%" alt="Keuangan Bogem — pembukuan dan pesanan katering BUMDes. Next.js, Prisma, PostgreSQL." /></a></td>
-<td width="50%"><a href="https://github.com/Argandhi23/fajartrans"><img src="./assets/project-fajar.svg" width="100%" alt="Fajar Trans — katalog rental mobil. Next.js, TypeScript, GSAP." /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Argandhi23/auraparfume"><img src="./assets/project-aura.svg" width="100%" alt="AURA Parfume — e-commerce parfum. Next.js, Prisma, Supabase." /></a></td>
-<td width="50%"><a href="https://github.com/Argandhi23/cozypaws"><img src="./assets/project-cozypaws.svg" width="100%" alt="Cozypaws — aplikasi pet care bersama tim. Flutter, Node.js, MongoDB." /></a></td>
-</tr>
-</table>
+<img src="./assets/interests-animated.svg" width="100%" alt="Minatku: web dengan Next.js dan TypeScript; mobile dengan Flutter dan Dart; UI/UX; Python dan AI. Ilustrasi pixel-art bergerak." />
+
+<br/>
 
 <details>
-<summary>Project lainnya</summary>
+<summary>Isi toolbox-ku</summary>
 
-- [Portfolio + CMS](https://github.com/Argandhi23/portofolio)
-- [Prabaswara — web studio fotografi](https://github.com/Argandhi23/prabaswara)
-- [Vetsy — aplikasi kesehatan hewan](https://github.com/Argandhi23/vetsy-app), project tim
-- [GoTo Pulse — analisis sentimen review](https://github.com/Argandhi23/goto-pulse)
-- [Klasifikasi ulasan Tokopedia](https://github.com/Argandhi23/submission_sentimen_tokopedia), eksperimen IndoBERT dan CNN
-- [Next.js / SSR](https://github.com/Argandhi23/next-metopen) dan [React / CSR](https://github.com/Argandhi23/react-metopen), penelitian performa web
+**Web** — Next.js, React, TypeScript, JavaScript, Tailwind CSS  
+**Mobile** — Flutter, Dart  
+**Backend & database** — Node.js, Prisma, Supabase, PostgreSQL, MongoDB  
+**Lainnya** — Python, Figma, Git, Postman, Vitest, Playwright
 
 </details>
 
-### Yang sering dipakai
+### Jejak di sini
 
-`Next.js` `React` `TypeScript` `Tailwind CSS`  
-`Flutter` `Dart` `Node.js` `Prisma`  
-`Supabase` `PostgreSQL` `MongoDB` `Python`
+<img src="https://raw.githubusercontent.com/Argandhi23/Argandhi23/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animasi ular di grafik kontribusi GitHub Argandhi23." />
 
-### Commit
-
-<img src="https://raw.githubusercontent.com/Argandhi23/Argandhi23/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animasi kontribusi GitHub Argandhi23." />
-
-[Semua repo →](https://github.com/Argandhi23?tab=repositories)
+<p align="center">
+  <a href="https://github.com/Argandhi23">GitHub</a>
+</p>
