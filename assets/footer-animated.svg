@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" role="img" aria-label="Makasih udah mampir! Masih belajar, masih ngulik, masih commit."><title>Makasih udah mampir! Masih belajar, masih ngulik, masih commit.</title><style>
+text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:monospace}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+@keyframes blink{0%,45%{opacity:1}50%,95%{opacity:0}}
+@keyframes glow{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes dash{to{stroke-dashoffset:-96}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes line1{0%,28%{opacity:1}33%,95%{opacity:0}100%{opacity:1}}
+@keyframes line2{0%,28%,66%,100%{opacity:0}33%,61%{opacity:1}}
+@keyframes line3{0%,61%,100%{opacity:0}66%,95%{opacity:1}}
+@keyframes wave{0%,100%{transform:translateY(0)}50%{transform:translateY(12px)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}.second,.third{display:none}}
+</style><defs><linearGradient id="w"><stop stop-color="#53e8ef"/><stop offset="1" stop-color="#bd81ff"/></linearGradient></defs><rect width="1000" height="140" rx="18" fill="#0c1120"/><path d="M0 100Q125 55 250 100T500 100T750 100T1000 100V140H0Z" fill="url(#w)" opacity=".15" style="animation:wave 5s ease-in-out infinite"/><path d="M0 115Q125 80 250 115T500 115T750 115T1000 115V140H0Z" fill="url(#w)" opacity=".25" style="animation:wave 4s ease-in-out -2s infinite"/><text x="500" y="54" text-anchor="middle" font-size="23" fill="#e6ddff">Makasih udah mampir! ✦</text><text x="500" y="82" text-anchor="middle" class="mono" font-size="15" fill="#8eabbd">masih belajar, masih ngulik, masih commit.</text></svg>
