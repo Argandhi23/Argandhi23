@@ -1,98 +1,52 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/madiun-room.svg" width="100%" alt="Argandhi — Madiun. Meja kerja pixel-art, hujan, kereta lewat, dan kucing." />
+</p>
 
-<img src="./assets/hello-animated.svg" width="100%" alt="Hey, aku Argandhi! Ngoding, ngulik, terus bikin sesuatu." />
+### Halo, aku Argandhi.
 
-**🌏 Ngawi, Indonesia · 🎓 Informatika UNESA · 🛠️ Web & Mobile**
+Mahasiswa Informatika UNESA, asal **Madiun, Jawa Timur**.
 
-[🚀 Lihat project](#-beberapa-yang-aku-bikin) · [🧰 Isi toolbox](#-isi-toolbox-ku) · [🐍 Kasih makan ular](#-commit-dulu-dimakan-ular-kemudian)
+Biasanya bikin web pakai **Next.js dan TypeScript**. Ada juga project **Flutter**, sama beberapa eksperimen **Python** buat kuliah. Di sini aku simpan project pribadi, tugas, dan hasil kerja bareng teman.
 
-</div>
+### Project
 
-### 👋 Kenalan dulu, yuk
-
-Panggil aja **Argandhi**. Aku suka ngulik ide terus nyobain bikin aplikasinya—mulai dari web buat bisnis lokal, sistem buat warga, sampai aplikasi pet care.
-
-Paling sering main sama **Next.js + TypeScript**, kadang pindah ke **Flutter**, kadang nyasar ke **Python & AI**. Repo di sini isinya campuran project pribadi, kerja bareng tim, dan tugas kuliah yang sekalian jadi tempat eksperimen 😄
-
-<img src="./assets/terminal-animated.svg" width="100%" alt="Terminal perkenalan Argandhi dengan pesan yang berganti." />
-
-### 🧰 Isi toolbox-ku
-
-<img src="./assets/stack-animated.svg" width="100%" alt="Ikon teknologi bergerak: Next.js, React, TypeScript, Flutter, Supabase, Prisma, Python." />
-
-Selain itu juga pernah ngulik **Node.js, PostgreSQL, MongoDB, Tailwind CSS, GSAP, Vitest, dan Playwright**. Pilih alatnya sesuai project, sambil belajar hal baru di jalan 🔧
-
-### 🚀 Beberapa yang aku bikin
-
-Klik judulnya kalau mau ngintip kodenya 👇  
-Ada yang personal, ada yang dikerjain bareng tim. Cerita lengkapnya ada di repo masing-masing.
+Klik kartunya buat buka repo.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>📦 <a href="https://github.com/Argandhi23/sistem-paket-warga">Paket datang? Biar kecatat.</a></h3>
-<b>Sistem Paket Warga</b> — alur paket dari satpam sampai warga, lengkap sama dashboard dan update realtime.
-<br/><br/><code>Next.js</code> <code>Prisma</code> <code>Supabase</code>
-</td>
-<td width="50%" valign="top">
-<h3>🏡 <a href="https://github.com/Argandhi23/griyanesa">Cari kost dekat kampus</a></h3>
-<b>Griyanesa</b> — cari kost sekitar UNESA Kampus 5 lewat peta, terus lanjut booking via WhatsApp.
-<br/><br/><code>Next.js</code> <code>Supabase</code> <code>Leaflet</code>
-</td>
+<td width="50%"><a href="https://github.com/Argandhi23/sistem-paket-warga"><img src="./assets/project-paket.svg" width="100%" alt="Sistem Paket Warga — manajemen paket perumahan. Next.js, Prisma, Supabase." /></a></td>
+<td width="50%"><a href="https://github.com/Argandhi23/griyanesa"><img src="./assets/project-griyanesa.svg" width="100%" alt="Griyanesa — pencarian kost sekitar UNESA Kampus 5. Next.js, Supabase, Leaflet." /></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>🍱 <a href="https://github.com/Argandhi23/sistemkeuanganbogem">Pesanan masuk, kas keurus</a></h3>
-<b>Keuangan Bogem</b> — pembukuan dan pesanan katering BUMDes, plus laporan dan integrasi Google Sheets.
-<br/><br/><code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code>
-</td>
-<td width="50%" valign="top">
-<h3>🚗 <a href="https://github.com/Argandhi23/fajartrans">Mau jalan ke mana?</a></h3>
-<b>Fajar Trans</b> — website rental mobil dengan katalog armada, animasi, dan pemesanan via WhatsApp.
-<br/><br/><code>Next.js</code> <code>TypeScript</code> <code>GSAP</code>
-</td>
+<td width="50%"><a href="https://github.com/Argandhi23/sistemkeuanganbogem"><img src="./assets/project-bogem.svg" width="100%" alt="Keuangan Bogem — pembukuan dan pesanan katering BUMDes. Next.js, Prisma, PostgreSQL." /></a></td>
+<td width="50%"><a href="https://github.com/Argandhi23/fajartrans"><img src="./assets/project-fajar.svg" width="100%" alt="Fajar Trans — katalog rental mobil. Next.js, TypeScript, GSAP." /></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>🛍️ <a href="https://github.com/Argandhi23/auraparfume">Ngoding yang wangi-wangi</a></h3>
-<b>AURA Parfume</b> — toko parfum online, dari katalog dan checkout sampai pengelolaan pesanan.
-<br/><br/><code>Next.js</code> <code>Prisma</code> <code>Supabase</code>
-</td>
-<td width="50%" valign="top">
-<h3>🐾 <a href="https://github.com/Argandhi23/cozypaws">Buat si kaki empat</a></h3>
-<b>Cozypaws</b> — project tim aplikasi pet care, buat profil pengguna, appointment, dan review layanan.
-<br/><br/><code>Flutter</code> <code>Node.js</code> <code>MongoDB</code>
-</td>
+<td width="50%"><a href="https://github.com/Argandhi23/auraparfume"><img src="./assets/project-aura.svg" width="100%" alt="AURA Parfume — e-commerce parfum. Next.js, Prisma, Supabase." /></a></td>
+<td width="50%"><a href="https://github.com/Argandhi23/cozypaws"><img src="./assets/project-cozypaws.svg" width="100%" alt="Cozypaws — aplikasi pet care bersama tim. Flutter, Node.js, MongoDB." /></a></td>
 </tr>
 </table>
 
 <details>
-<summary><b>🧪 Masih ada eksperimen lain, buka sini!</b></summary>
+<summary>Project lainnya</summary>
 
-- 🧑‍🚀 [Portfolio + CMS](https://github.com/Argandhi23/portofolio) — tempat ngumpulin karya, sekalian bikin pengelola kontennya sendiri.
-- 📷 [Prabaswara](https://github.com/Argandhi23/prabaswara) — web studio fotografi dengan portofolio dan CMS.
-- 📱 [Vetsy](https://github.com/Argandhi23/vetsy-app) — project tim Flutter buat profil hewan dan riwayat medis.
-- 💬 [GoTo Pulse](https://github.com/Argandhi23/goto-pulse) — ngulik sentimen dari review Gojek dan Tokopedia.
-- 🤖 [Sentimen Tokopedia](https://github.com/Argandhi23/submission_sentimen_tokopedia) — eksperimen klasifikasi ulasan pakai IndoBERT dan CNN.
-- ⚡ [Next.js / SSR](https://github.com/Argandhi23/next-metopen) vs [React / CSR](https://github.com/Argandhi23/react-metopen) — bahan penelitian performa web dan SEO.
+- [Portfolio + CMS](https://github.com/Argandhi23/portofolio)
+- [Prabaswara — web studio fotografi](https://github.com/Argandhi23/prabaswara)
+- [Vetsy — aplikasi kesehatan hewan](https://github.com/Argandhi23/vetsy-app), project tim
+- [GoTo Pulse — analisis sentimen review](https://github.com/Argandhi23/goto-pulse)
+- [Klasifikasi ulasan Tokopedia](https://github.com/Argandhi23/submission_sentimen_tokopedia), eksperimen IndoBERT dan CNN
+- [Next.js / SSR](https://github.com/Argandhi23/next-metopen) dan [React / CSR](https://github.com/Argandhi23/react-metopen), penelitian performa web
 
 </details>
 
-### 🐍 Commit dulu, dimakan ular kemudian
+### Yang sering dipakai
 
-<div align="center">
+`Next.js` `React` `TypeScript` `Tailwind CSS`  
+`Flutter` `Dart` `Node.js` `Prisma`  
+`Supabase` `PostgreSQL` `MongoDB` `Python`
 
-<img src="https://raw.githubusercontent.com/Argandhi23/Argandhi23/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animasi ular memakan kotak kontribusi GitHub Argandhi23." />
+### Commit
 
-*Si ular kebagian kotak, aku kebagian pengalaman debugging 😅*
+<img src="https://raw.githubusercontent.com/Argandhi23/Argandhi23/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animasi kontribusi GitHub Argandhi23." />
 
-<br/>
-
-**Penasaran sama project lainnya?**  
-[📂 Buka semua repo-ku](https://github.com/Argandhi23?tab=repositories)
-
-<br/>
-
-<img src="./assets/footer-animated.svg" width="100%" alt="Makasih udah mampir! Masih belajar, masih ngulik, masih commit." />
-
-</div>
+[Semua repo →](https://github.com/Argandhi23?tab=repositories)
